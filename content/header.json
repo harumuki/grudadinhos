@@ -1,17 +1,21 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Compra 100% segura",
+    "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
+        "title": "Comparativos",
+        "link": "/pages/comparativos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "/pages/conheca-o-jacquard-grudadinhos",
+        "link": "Conheca o jacquard grudadinhos"
+      },
+      {
+        "link": "/pages/revendas",
+        "title": "Revendas"
       }
     ],
     "phone_wpp": true,
