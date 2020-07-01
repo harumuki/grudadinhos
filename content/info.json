@@ -9,10 +9,10 @@
   },
   "exchange": {
     "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": ""
   },
   "promo": {
     "show": true,
-    "text": "10% de desconto à vista"
+    "text": "10% de desconto à vista no pagamento via Depósito Bancário"
   }
 }
