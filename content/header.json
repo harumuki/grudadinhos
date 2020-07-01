@@ -22,7 +22,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/mochilas-ergonomicas?Mochilas Ergonômicas",
+      "/ring-sling?Ring Sling",
+      "/wrap-sling?Wrap Sling",
+      "/acessorios?Acessórios",
+      "/mei-tai-evolutivo?Mei Tai Evolutivo"
+    ],
     "random": 0,
     "full_width": true
   },
