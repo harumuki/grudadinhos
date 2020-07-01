@@ -7,28 +7,28 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2020-07-01T19:03:16.137Z",
-          "end": "2020-07-01T19:03:16.159Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/banner4.jpg"
         },
         {
-          "start": "2020-07-01T19:03:27.383Z",
-          "end": "2020-07-01T19:03:27.419Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/yin-collection-1.png"
         },
         {
-          "start": "2020-07-01T19:03:35.898Z",
-          "end": "2020-07-01T19:03:35.926Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/yin-collection-2.png"
         },
         {
-          "start": "2020-07-01T19:03:43.900Z",
-          "end": "2020-07-01T19:03:43.926Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/yin-collection-3.png"
         },
         {
-          "start": "2020-07-01T19:03:58.145Z",
-          "end": "2020-07-01T19:03:58.173Z",
+          "start": "",
+          "end": "",
           "img": "/img/uploads/bannersgbag-rosa.jpg"
         }
       ]
