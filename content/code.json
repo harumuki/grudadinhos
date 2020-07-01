@@ -1,5 +1,5 @@
 {
-  "css": ".info-bar {\n  background: #56cc9d;\n}",
+  "css": ".info-bar {\n  background: var(--success);\n}\n.header__search-btn{\n  color: var(--secondary);\n}",
   "html_head": "",
   "html_body": ""
 }
