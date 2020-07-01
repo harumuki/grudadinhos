@@ -4,20 +4,7 @@
     "link": ""
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Comparativos",
-        "link": "/pages/comparativos"
-      },
-      {
-        "title": "Conheca o jacquard grudadinhos",
-        "link": "/pages/conheca-o-jacquard-grudadinhos"
-      },
-      {
-        "link": "/pages/revendas",
-        "title": "Revendas"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
