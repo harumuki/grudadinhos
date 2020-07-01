@@ -7,17 +7,29 @@
       "autoplay": 9000,
       "slides": [
         {
-          "img": "/img/uploads/rect89.webp",
-          "link": "/headset",
-          "alt": "Headset banner",
-          "start": "2020-04-11T05:54:06.750Z",
-          "end": "2020-12-31T03:00:00.000Z"
+          "start": "2020-07-01T19:03:16.137Z",
+          "end": "2020-07-01T19:03:16.159Z",
+          "img": "/img/uploads/banner4.jpg"
         },
         {
-          "img": "/img/uploads/banner2.webp",
-          "alt": "Banner sample two",
-          "start": "",
-          "end": ""
+          "start": "2020-07-01T19:03:27.383Z",
+          "end": "2020-07-01T19:03:27.419Z",
+          "img": "/img/uploads/yin-collection-1.png"
+        },
+        {
+          "start": "2020-07-01T19:03:35.898Z",
+          "end": "2020-07-01T19:03:35.926Z",
+          "img": "/img/uploads/yin-collection-2.png"
+        },
+        {
+          "start": "2020-07-01T19:03:43.900Z",
+          "end": "2020-07-01T19:03:43.926Z",
+          "img": "/img/uploads/yin-collection-3.png"
+        },
+        {
+          "start": "2020-07-01T19:03:58.145Z",
+          "end": "2020-07-01T19:03:58.173Z",
+          "img": "/img/uploads/bannersgbag-rosa.jpg"
         }
       ]
     },
