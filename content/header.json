@@ -9,13 +9,9 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [
-      "/mochilas-ergonomicas?MOCHILAS ERGONÔMICAS",
-      "/wrap-sling?Wrap Sling",
-      "/mei-tai-evolutivo?Mei Tai Evolutivo"
-    ],
-    "random": 5,
-    "full_width": false
+    "featured": [],
+    "random": 3,
+    "full_width": true
   },
   "search_input": true
 }
