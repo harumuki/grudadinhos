@@ -40,7 +40,17 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": null
+      "collection_id": "5efd1d1e14ff772fde7c7d0c"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5f274dd1f023684cdbd68b0a"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": "5f27514ff023684cdbd68b7f"
     }
   ]
 }
