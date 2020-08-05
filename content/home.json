@@ -34,10 +34,6 @@
       ]
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "collection_id": "5efd1d1e14ff772fde7c7d0c"
